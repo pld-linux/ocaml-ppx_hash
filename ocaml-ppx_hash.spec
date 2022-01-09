@@ -48,7 +48,7 @@ używających biblioteki ppx_hash.
 
 %package devel
 Summary:	A ppx rewriter that generates hash functions from type expressions and definitions - development part
-Summary(pl.UTF-8):	Moduł przepisujący ppx generujący funkcje haszujące z wyrażeń i definicji typów - cześć programistyczna
+Summary(pl.UTF-8):	Moduł przepisujący ppx generujący funkcje haszujące z wyrażeń i definicji typów - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
